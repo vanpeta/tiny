@@ -1,4 +1,9 @@
 {
 	"name": "@vanpeta/tiny",
-	"version": "1.0.1"
+	"version": "2.0.0",
+	"description": "tiny functionality to remove spaces from strings",
+	"repository": "vanpeta/tiny",
+	"license": "MIT",
+	"main": "tiny.js",
+	"keywords": ["vanpeta"]
 }
