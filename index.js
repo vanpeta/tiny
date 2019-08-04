@@ -1,5 +1,5 @@
 function kamy (string) {
-	return string.split(" ").join();
+	return string.replace(/ /g, "");
 };
 
 module.exports = kamy;
