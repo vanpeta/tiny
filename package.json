@@ -4,7 +4,7 @@
 	"description": "tiny functionality to remove spaces from strings",
 	"repository": "vanpeta/tiny",
 	"license": "MIT",
-	"main": "tiny.js",
+	"main": "index.js",
 	"keywords": [
 		"vanpeta"
 	]
